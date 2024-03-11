@@ -15,4 +15,8 @@ The only dependency is the library googlemaps, which can easily be installed thr
 pip install googlemaps
 ```
 # Documentation
-The detailed documentation of the plugin can be found in the .pdf file of the repository. Make sure to read it carefully. 
+Full documentaion can be found in the [pdf document](https://github.com/kowalski93/Google-Maps-Places-Plugin-for-QGIS/blob/main/Google%20Maps%20Places%20Plugin%20%20for%20QGIS.pdf) of this repository. Make sure to read it carefully. 
+
+#Contact, Feedback & Contribution
+Alexandros Voukenas: avoukenas@gmail.com
+If you found this plugin useful, a minor donation would be greately appreciated
