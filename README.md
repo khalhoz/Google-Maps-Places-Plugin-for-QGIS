@@ -17,6 +17,6 @@ pip install googlemaps
 # Documentation
 Full documentaion can be found in the [pdf document](https://github.com/kowalski93/Google-Maps-Places-Plugin-for-QGIS/blob/main/Google%20Maps%20Places%20Plugin%20%20for%20QGIS.pdf) of this repository. Make sure to read it carefully. 
 
-#Contact, Feedback & Contribution
+# Contact, Feedback & Contribution
 Alexandros Voukenas: avoukenas@gmail.com
 If you found this plugin useful, a minor donation would be greately appreciated
