@@ -19,4 +19,5 @@ Full documentaion can be found in the [pdf document](https://github.com/kowalski
 
 # Contact, Feedback & Contribution
 Alexandros Voukenas: avoukenas@gmail.com
+
 If you found this plugin useful, a minor donation would be greately appreciated
